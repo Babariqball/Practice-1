@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.section {
+  background-image: linear-gradient(
+    90deg,
+    rgba(30, 30, 37, 1) 0%,
+    rgba(28, 28, 35, 1) 100%
+  );
+  width: 2542px;
+  height: 1080px;
+}
+.navbar {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+  background-color: aqua;
+  /* position: absolute; */
+}
+.btn {
+  color: white;
+  text-decoration: none;
+}
