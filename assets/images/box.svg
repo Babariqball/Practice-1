@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:url(#SVGID_1_);stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
+	
+		.st1{fill:none;stroke:url(#SVGID_00000024687288065906904170000016827901318074960063_);stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
+	
+		.st2{fill:none;stroke:url(#SVGID_00000050664831223019883970000010213783511779950227_);stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="2.75" y1="12" x2="21.25" y2="12">
+	<stop  offset="0" style="stop-color:#F71C10"/>
+	<stop  offset="1" style="stop-color:#F00C57"/>
+</linearGradient>
+<path class="st0" d="M21,8c0-0.7-0.4-1.4-1-1.7l-7-4c-0.6-0.4-1.4-0.4-2,0l-7,4C3.4,6.6,3,7.3,3,8v8c0,0.7,0.4,1.4,1,1.7l7,4
+	c0.6,0.4,1.4,0.4,2,0l7-4c0.6-0.4,1-1,1-1.7V8z"/>
+<linearGradient id="SVGID_00000000903644591328924900000002007282095647650438_" gradientUnits="userSpaceOnUse" x1="3.05" y1="9.5" x2="20.95" y2="9.5">
+	<stop  offset="0" style="stop-color:#F71C10"/>
+	<stop  offset="1" style="stop-color:#F00C57"/>
+</linearGradient>
+<path style="fill:none;stroke:url(#SVGID_00000000903644591328924900000002007282095647650438_);stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;" d="
+	M3.3,7l8.7,5l8.7-5"/>
+<linearGradient id="SVGID_00000158021213967427536230000006850502857749890979_" gradientUnits="userSpaceOnUse" x1="11.75" y1="17" x2="12.25" y2="17">
+	<stop  offset="0" style="stop-color:#F71C10"/>
+	<stop  offset="1" style="stop-color:#F00C57"/>
+</linearGradient>
+<path style="fill:none;stroke:url(#SVGID_00000158021213967427536230000006850502857749890979_);stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;" d="
+	M12,22V12"/>
+</svg>
